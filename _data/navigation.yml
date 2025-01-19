@@ -23,6 +23,12 @@ header:
       # @end locale config
     url: /research.html
   
+  - titles:
+      # @start locale config
+      en      : &EN       Personal
+      # @end locale config
+    url: /personal.html
+
 docs-en:
   - title:      Start
     children:
