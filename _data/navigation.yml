@@ -50,3 +50,15 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       News
+      # @end locale config
+    url: /news.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Research
+      # @end locale config
+    url: /research.html
