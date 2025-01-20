@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Electronics
 sidebar:
   nav: docs-en

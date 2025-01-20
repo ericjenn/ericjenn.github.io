@@ -39,8 +39,8 @@ docs-en:
   - title:      Personal work
     children:
       - title:  Electronics
-        url:    /docs/en/electronics/
+        url:    /docs/en/electronics
       - title:  FAQs
-        url:    /docs/en/faqs/
+        url:    /docs/en/faqs
       - title:  Other
-        url:    /docs/en/other/
+        url:    /docs/en/other
