@@ -1,5 +1,7 @@
-# Research activities
-
+---
+sidebar:
+  nav: docs
+---
 I work for the [Institut de Recherche Technologique (IRT) Saint-Exupery](www.irt-saintexupery.com) located in Toulouse.
 
 Paper that I have co-authored can be founds using [Google Scholar](https://scholar.google.com/citations?user=VaRcFakAAAAJ&hl=en).

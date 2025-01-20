@@ -15,7 +15,7 @@ header:
       # @start locale config
       en      : &EN       News
       # @end locale config
-    url: /news.html
+    url: /docs/electronics.html
 
   - titles:
       # @start locale config
