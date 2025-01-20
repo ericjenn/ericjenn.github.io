@@ -39,7 +39,7 @@ docs:
   - title:      Personal work
     children:
       - title:  Electronics
-        url:    "/docs/electronics.html"
+        url:    /docs/electronics.md
       - title:  FAQs
         url:    /docs/faqs.html
       - title:  Other
