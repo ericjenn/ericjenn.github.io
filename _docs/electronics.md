@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Electronics
+permalink: /docs/electronics
 ---
 
 # Electronics 
