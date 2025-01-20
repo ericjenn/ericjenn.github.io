@@ -1,8 +1,6 @@
 ---
-layout: article
+layout: default
 title: Electronics
-sidebar:
-  nav: docs-en
 ---
 
 # Electronics 

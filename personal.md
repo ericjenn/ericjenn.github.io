@@ -1,6 +1,6 @@
 ---
 sidebar:
-  nav: docs-en
+  nav: docs
 ---
 
 Here are a few data about my personal activities. I actually spend quite some time playing with electronics components... 
