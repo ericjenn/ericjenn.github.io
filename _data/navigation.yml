@@ -15,7 +15,7 @@ header:
       # @start locale config
       en      : &EN       News
       # @end locale config
-    url: /docs/electronics.html
+    url: /news.html
 
   - titles:
       # @start locale config
@@ -39,7 +39,7 @@ docs:
   - title:      Personal work
     children:
       - title:  Electronics
-        url:    /docs/electronics.html
+        url:    "/docs/electronics.html"
       - title:  FAQs
         url:    /docs/faqs.html
       - title:  Other
