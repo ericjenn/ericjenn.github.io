@@ -29,18 +29,18 @@ header:
       # @end locale config
     url: /personal.html
 
-docs-en:
+docs:
   - title:      Start
     children:
       - title:  Quick Start
-        url:    /docs/en/quick-start
+        url:    /docs/quick-start
       - title:  Structure
-        url:    /docs/en/structure
+        url:    /docs/structure
   - title:      Personal work
     children:
       - title:  Electronics
-        url:    /docs/en/electronics
+        url:    /docs/electronics.html
       - title:  FAQs
-        url:    /docs/en/faqs
+        url:    /docs/faqs.html
       - title:  Other
-        url:    /docs/en/other
+        url:    /docs/other.html
