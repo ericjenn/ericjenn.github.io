@@ -2,6 +2,7 @@
 layout: default
 title: Electronics
 permalink: /docs/electronics
+key: electronics
 ---
 
 # Electronics 
